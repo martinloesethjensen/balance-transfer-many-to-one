@@ -1,6 +1,6 @@
 # Balance transfer - many to one
 
-Script for transfering KSM from multiple accounts to a receiver account.
+Script for transferring KSM from multiple accounts to a receiver account.
 
 ```txt
 Options:
