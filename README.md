@@ -2,6 +2,14 @@
 
 Script for transferring KSM from multiple accounts to a receiver account.
 
+Example:
+
+```sh
+node run.js -e wss://kusama-rpc.polkadot.io -s <KEYS_FILE> --amount <AMOUNT> --receiver <KSM_ADDR>
+```
+
+> The keys file should have each key on a new line.
+
 ```txt
 Options:
       --help         Show help                                         [boolean]
